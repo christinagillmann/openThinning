@@ -9,7 +9,6 @@
 #include <vtkPNGWriter.h>
 #include <vtkGPUVolumeRayCastMapper.h>
 #include <vtkFixedPointVolumeRayCastMapper.h>
-#include <vtkVolumeTextureMapper2D.h>
 #include <vtkColorTransferFunction.h>
 #include <vtkPiecewiseFunction.h>
 #include <vtkVolume.h>
